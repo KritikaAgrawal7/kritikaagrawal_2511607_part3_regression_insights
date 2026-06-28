@@ -137,12 +137,7 @@ Monthly Sales = 44,610.58 + 35.68 × Footfall
 ## Final Multiple Regression Model
 
 Monthly Sales =
-79,514.81
-+ 1.186 × Marketing Spend
-+ 33.729 × Footfall
-+ 3,039.89 × Inventory Availability (%)
-+ 10,421.67 × Customer Rating
-+ 15,257.57 × Store_Mall
+79,514.81 + 1.186 × Marketing Spend + 33.729 × Footfall + 3,039.89 × Inventory Availability (%) + 10,421.67 × Customer Rating + 15,257.57 × Store_Mall
 
 ---
 
