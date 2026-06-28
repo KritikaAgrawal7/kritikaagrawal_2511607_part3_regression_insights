@@ -198,9 +198,9 @@ Holding all other variables constant, Mall stores are expected to generate appro
 
 | Model | R² | Selected |
 |------|------:|:---------:|
-| Marketing Spend | 0.167 | ❌ |
+| Marketing Spend | 0.167 | No |
 | Footfall | 0.736 | Good Benchmark |
-| Multiple Regression | **0.811** | ✅ Final Model |
+| Multiple Regression | **0.811** | Final Model |
 
 The multiple regression model achieved the highest explanatory power and included all statistically significant business drivers.
 
